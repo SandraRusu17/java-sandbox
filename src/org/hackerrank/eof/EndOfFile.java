@@ -9,15 +9,10 @@ import java.util.regex.*;
 public class EndOfFile {
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        int i=1;
-        while (scan.hasNext()){
-            String s = scan.nextLine();
-            System.out.println(i + ' ' + s);
-            i++;
+        Scanner scanner = new Scanner(System.in);
+
+        for (int i = 1; scanner.hasNext(); i++) {
+            System.out.println(i + " " + scanner.nextLine());
         }
-
-
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
     }
 }
