@@ -1,10 +1,10 @@
-package org.hackerrank;
+package org.hackerrank.loops;
 
 import java.util.*;
 import java.io.*;
 import java.lang.Math.*;
 
-class Solution3 {
+class Solution {
     public static void main(String[] argh) {
         Scanner in = new Scanner(System.in);
         int t = in.nextInt();

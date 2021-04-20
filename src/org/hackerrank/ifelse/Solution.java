@@ -1,4 +1,4 @@
-package org.hackerrank;
+package org.hackerrank.ifelse;
 
 import java.io.*;
 import java.math.*;
@@ -8,7 +8,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution2 {
+public class Solution {
 
 
     private static final Scanner scanner = new Scanner(System.in);

@@ -1,8 +1,8 @@
-package org.hackerrank;
+package org.hackerrank.stdinstdout;
 
 import java.util.*;
 
-public class Solution1 {
+public class Solution {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

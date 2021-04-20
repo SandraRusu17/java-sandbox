@@ -1,9 +1,9 @@
-package org.hackerrank;
+package org.hackerrank.datatypes;
 
 import java.util.*;
 import java.io.*;
 
-class Solution4 {
+class Solution {
     public static void main(String[] argh) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
